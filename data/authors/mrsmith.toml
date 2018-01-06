@@ -1,0 +1,13 @@
+id = "mrsmith"
+
+[email]
+username = "mr.smih"
+host = "relationship-anarchy.org"
+
+[name]
+display = "Mr. Smith"
+
+[social]
+email = "mr.smith@relationship-anarchy.org"
+facebook  = "MunifTanjim"
+twitter = "MunifTanjim"
