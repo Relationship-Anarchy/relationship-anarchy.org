@@ -1,0 +1,13 @@
+id = "anarchist"
+
+[email]
+username = "anarchist"
+host = "relationship-anarchy.org"
+
+[name]
+display = "Joe Anarchist"
+
+[social]
+email = ""
+facebook = ""
+twitter = ""
