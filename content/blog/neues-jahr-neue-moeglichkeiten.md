@@ -1,6 +1,6 @@
 ---
 date: 2018-01-06T22:22:28+01:00
-title: "Neues Jahr, Neue Moeglichkeiten"
+title: "Neues Jahr, neue Möglichkeiten"
 authors: ["mrsmith"]
 categories:
 # - Allgemein
