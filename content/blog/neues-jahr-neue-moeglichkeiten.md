@@ -6,7 +6,7 @@ categories:
 # - Allgemein
 # - Technik
 #slug: updating
-draft: true
+
 ---
 
 Das Jahr 2018 ist inzwischen rund eine Woche alt und somit neigt sich leider auch mein Urlaub dem Ende entgegen. Auch wenn diese Zeit etwas ungeplant chaotisch wurde, habe ich viel nachgedacht. Unter anderem darüber, in welcher Form dieser Blog in Zukunft geführt werden soll.
