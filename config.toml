@@ -61,7 +61,7 @@ titleSeparator = "•"
 codepen = "MunifTanjim"
 email = "mr.smith@relationship-anarchy.org"
 facebook = "MunifTanjim"
-github = "MunifTanjim"
+github = "relationship-anarchy"
 instagram = "MunifTanjim"
 linkedin = "muniftanjim"
 twitter = "MunifTanjim"
@@ -69,7 +69,7 @@ telegram = "MunifTanjim"
 
 [params.social.config]
 #platforms = ["github","facebook","twitter","instagram","email","codepen","linkedin","telegram"]
-platforms = ["email"]
+platforms = ["github","email"]
 
 [taxonomies]
 author = "authors"
@@ -79,11 +79,11 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-#[[menu.main]]
-#name = "Repo"
-#weight = -10
-#identifier = "repository"
-#url = "https://github.com/MunifTanjim/minimo"
+[[menu.main]]
+name = "Repo"
+weight = -10
+identifier = "repository"
+url = "https://github.com/relationship-anarchy/relationship-anarchy.org"
 
 [blackfriday]
 hrefTargetBlank = true
