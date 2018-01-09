@@ -79,11 +79,11 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/relationship-anarchy/relationship-anarchy.org"
+#[[menu.main]]
+#name = "Repo"
+#weight = -10
+#identifier = "repository"
+#url = "https://github.com/relationship-anarchy/relationship-anarchy.org"
 
 [blackfriday]
 hrefTargetBlank = true
