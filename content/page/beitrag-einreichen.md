@@ -5,7 +5,7 @@ menu: hidden
 comments: false
 ---
 
-<form method="POST" action="http://formspree.io/beitrag@relationship-anarchy.org">
+<form method="POST" action="https://formspree.io/beitrag@relationship-anarchy.org">
   <input type="hidden" name="_language" value="de" />
   <input type="hidden" name="_subject" value="Neuer Blog Beitrag" />
   <input type="hidden" name="_next" value="//relationship-anarchy.org/beitrag-eingereicht" />
