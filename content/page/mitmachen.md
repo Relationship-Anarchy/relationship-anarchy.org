@@ -12,4 +12,4 @@ Daher basiert dieser Blog auf [hugo](http://gohugo.io), gehostet auf [GitHub](ht
 
 Alles klar? Super, dann mal los... Ich freue mich!  Bei Fragen stehe ich gerne per [E-Mail](mr.smith@relationship-anarchy.org) zur Verfügung.
 
-Keine Ahnung? Auch kein Problem... Falls Du Dich mit der Technik nicht weiter auseinander setzen willst, nutze einfach dieses  [Formular](/beitrag-einreichen). 
+Keine Ahnung? Auch kein Problem! Falls Du Dich mit der Technik nicht weiter auseinander setzen willst, nutze einfach dieses  [Formular](/beitrag-einreichen). 
