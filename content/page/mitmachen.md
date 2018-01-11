@@ -10,8 +10,6 @@ Oft liest man in einem Blog nur mit, kommentiert maximal die Beiträge. Dieser B
 
 Daher basiert dieser Blog auf [hugo](http://gohugo.io), gehostet auf [GitHub](https://github.com), basierend auf einem [öffentlichen Repo](https://github.com/relationship-anarchy/relationship-anarchy.org).
 
-Alles klar? Super, dann mal los... Ich freue mich!  Bei Fragen stehe ich gerne per [E-Mail](mr.smith@relationship-anarchy.org) zur Verfügung. - Keine Ahnung? Auch kein Problem...
+Alles klar? Super, dann mal los... Ich freue mich!  Bei Fragen stehe ich gerne per [E-Mail](mr.smith@relationship-anarchy.org) zur Verfügung.
 
----
-
-Falls Du Dich mit der Technik nicht weiter auseinander setzen willst, nutze einfach dieses  [Formular](/beitrag-einreichen). 
+Keine Ahnung? Auch kein Problem... Falls Du Dich mit der Technik nicht weiter auseinander setzen willst, nutze einfach dieses  [Formular](/beitrag-einreichen). 
