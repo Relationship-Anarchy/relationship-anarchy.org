@@ -6,7 +6,7 @@ copyright = ""
 theme = "minimo"
 
 disqusShortname = "relationship-anarchy"
-googleAnalytics = ""
+googleAnalytics = "UA-102169098-1"
 
 Paginate = 5
 preserveTaxonomyNames = true
