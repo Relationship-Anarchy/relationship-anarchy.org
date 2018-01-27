@@ -1,6 +1,6 @@
 ---
 date: 2018-01-27T22:53:43+01:00
-title: "Verifi Bloglovin"
+title: "Verify Bloglovin"
 authors: ["mrsmith"]
 categories:
 ---
