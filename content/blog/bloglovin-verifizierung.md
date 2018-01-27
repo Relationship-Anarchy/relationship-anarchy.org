@@ -1,6 +1,6 @@
 ---
-date: 2018-01-27T21:35:21+01:00
-title: "Bloglovin"
+date: 2018-01-27T22:01:21+01:00
+title: "Bloglovin Verifizierung"
 authors: ["mrsmith"]
 ---
 
