@@ -5,5 +5,3 @@ weight: -270
 ---
 > Minimalism is not a lack of something. It’s simply the perfect amount of something.
 > — Nicholas Burroughs
-
-<a href="https://www.bloglovin.com/blog/19277285/?claim=g4hzrevuxxr">Follow my blog with Bloglovin</a>
