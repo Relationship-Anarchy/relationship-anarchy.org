@@ -1,0 +1,21 @@
+      </main>
+
+      <footer id='footer' class='footer'>
+          <div class='container sep-before'>
+            <center><a href="https://www.joyclub.de/einladung/?UID=3149456" target="_blank">JOYclub - Sex und Erotik von der stilvollen Seite</a></center>
+          </div>
+        <div class='container sep-before'>
+          {{- $footerWidgets := .Site.Params.widgets.footer -}}
+          {{- partial "extras/widget_area" ( dict "Widgets" $footerWidgets "Scope" . ) -}}
+          {{ partial "footer/copyright" . }}
+        </div>
+      </footer>
+
+    </div>
+  </div>
+
+  {{- partial "footer/scripts" . -}}
+
+</body>
+
+</html>

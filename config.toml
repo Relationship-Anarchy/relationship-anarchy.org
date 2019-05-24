@@ -16,6 +16,8 @@ enableRobotsTXT = true # generate robots.txt
 # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
 pygmentsCodefences = true
 
+enableEmoji = true
+
 # Missing translations will default to this content language
 defaultContentLanguage = "de"
 
@@ -39,11 +41,25 @@ suffix = ""
 # date & time format: https://golang.org/pkg/time/
 dateFormat = "02 Jan 2006"
 listDateFormat = "02 Jan 2006"
+archiveDateFormat = "Jan 02"
 hideEntryNavigation = ["page"] # boolean / array of sections
-recentPostsLength = 4
+hideEntryMeta = ["page"] # boolean / array of sections
 hideSocialMenu = false
 showReadingTime = true
-noTermCloudShuffle = false
+showLastmod = true
+taxonomyCloudShuffle = true
+accentColor = "#ffcd00"
+hideMainMenu = false
+rtl = false
+
+[params.sidebar]
+enable = false
+
+[params.widgets]
+#header = ["breadcrumbs"]
+homepage = ["recent_posts"]
+sidebar = ["about","search","sidebar_menu","taxonomy_cloud"]
+footer = ["social_menu"]
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
@@ -58,22 +74,56 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-codepen = "MunifTanjim"
+#codepen = "MunifTanjim"
 email = "mr.smith@relationship-anarchy.org"
-facebook = "MunifTanjim"
+#facebook = "MunifTanjim"
 github = "relationship-anarchy"
-instagram = "MunifTanjim"
-linkedin = "muniftanjim"
-twitter = "MunifTanjim"
-telegram = "MunifTanjim"
+#gitlab = "MunifTanjim"
+#instagram = "MunifTanjim"
+#linkedin = "muniftanjim"
+#twitter = "MunifTanjim"
+#telegram = "MunifTanjim"
+#google_scholar = "qc6CJjYAAAAJ"
+#youtube = "UCT-U0rNerYxItGcuoPX-WYA"
 
-[params.social.config]
-#platforms = ["github","facebook","twitter","instagram","email","codepen","linkedin","telegram"]
-platforms = ["github","email"]
+[params.comments]
+enable = true
+
+# Isso: https://posativ.org/isso/
+[params.comments.isso]
+enable = false
+scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
+dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
+
+[params.comments.staticman]
+enable = false
+apiEndpoint = "https://api.staticman.net/v2/entry"
+maxDepth = 2
+username = "MunifTanjim"
+repository = "minimo"
+branch = "master"
+
+# Utterances: https://utteranc.es
+[params.comments.utterances]
+enable = false
+issueTerm = "pathname" # pathname / url / title
+
+[params.comments.utterances.github]
+username = "MunifTanjim"
+repository = "minimo"
+
+[params.search]
+client = "fuse" # algolia / fuse / lunr
+
+[params.search.algolia]
+appId = ""
+indexName = ""
+searchApiKey = ""
 
 [taxonomies]
 author = "authors"
 category = "categories"
+series = "series"
 tag = "tags"
 
 [permalinks]
