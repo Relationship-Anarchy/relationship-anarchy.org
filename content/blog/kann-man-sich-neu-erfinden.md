@@ -67,7 +67,7 @@ Hat ja super geklappt, mit dem selbst neu erfinden. Hallo, ich bin Mr. Smith und
 
 <a href="https://www.youtube.com/watch?v=1UiA32Qv4yE" target="_blank">Ich hatte einen schwarzen Hund</a> passt besser, als ich mir vor einigen Monaten noch eingestehen wollte. Und doch finde ich, dass ein Poetry Slam von <a href="https://www.youtube.com/watch?v=ZPobTgmJ18c" target="_blank">Sabrina Benaim</a> es noch deutlich besser trifft.
 
-Auf dem Weg von der Arbeit ins *freie Wochenende* habe ich die Böhsen Onkelz für mich wiederentdeckt und festgestellt, dass die neuen Lieder das sind, was ich erwartet habe. Gewollt, aber nicht gekonnt, einfach um Kohle zu machen. Aber die alten Lieder wirken, wie sie es bereits damals taten, jedoch sind Lautsprecher in meinem Auto zu schwach... <a href="https://www.youtube.com/watch?v=iXM1NzrfHlI" target="_blank">Bin ich nur glücklich wenn es schmerzt?</a> Und ja, <a href="https://www.youtube.com/watch?v=0r1gOmD0LR8" target="_blank">nur die besten sterben jung</a>. Scheiße, ich vermisse Dich, Sascha. Auch 14 Jahre später...
+Auf dem Weg von der Arbeit ins *freie Wochenende* habe ich die Böhsen Onkelz für mich wiederentdeckt und festgestellt, dass die neuen Lieder das sind, was ich erwartet habe. Gewollt, aber nicht gekonnt, einfach um Kohle zu machen. Aber die alten Lieder wirken, wie sie es bereits damals taten, jedoch sind Lautsprecher in meinem Auto zu schwach... <a href="https://www.youtube.com/watch?v=iXM1NzrfHlI" target="_blank">Bin ich nur glücklich wenn es schmerzt?</a> Und ja, <a href="https://www.youtube.com/watch?v=0r1gOmD0LR8" target="_blank">nur die besten sterben jung</a>. Scheiße, ich vermisse Dich, Sascha. Auch 24 Jahre später...
 
 ---
 
