@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c2aeade-2ccc-476e-b72a-500d4d44fa96" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/der-knoten-ist-geplatzt.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/der-knoten-ist-geplatzt.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +82,7 @@
       <workItem from="1564313099039" duration="39000" />
       <workItem from="1564313200178" duration="188000" />
       <workItem from="1564313440834" duration="3201000" />
-      <workItem from="1564419378564" duration="6858000" />
+      <workItem from="1564419378564" duration="7112000" />
     </task>
     <servers />
   </component>

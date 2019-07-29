@@ -2,11 +2,6 @@
 date: 2019-07-28T12:49:51+02:00
 title: "Der Knoten ist geplatzt"
 authors: ["mrsmith"]
-categories:
-# - Allgemein
-# - Technik
-# slug: updating
-draft: true
 ---
 Es ist Sonntag, die Hitzewelle ist unterbrochen und der Regen prasselt ans Fenster. Wenn ich so darüber nachdenke ist es das ideale Wetter um seine Gedanken zum (virtuellen) Papier zu bringen.
 Wenn ich das so lese denke ich automatisch an eine kleine Hütte, einen Karmin in dem das Feuer lodert und der Regen von außen an die Fenster geschlägt... Bei Kerzenschein, fern ab von der Außenwelt, den Gedanken nachhängend, einige Dinge aufs Papier kritzeln...
