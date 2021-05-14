@@ -5,7 +5,7 @@ copyright = ""
 
 theme = "minimo"
 
-disqusShortname = "relationship-anarchy"
+#disqusShortname = "relationship-anarchy"
 googleAnalytics = ""
 
 Paginate = 5
@@ -67,7 +67,7 @@ appID = ""
 pageID = ""
 
 [params.opengraph.twitter]
-page = "" # Twitter page username
+page = "mr_smith_ra" # Twitter page username
 
 [params.seo]
 # Title Separator: - – — · • * ⋆ | ~ « » < >
@@ -91,9 +91,9 @@ enable = true
 
 # Isso: https://posativ.org/isso/
 [params.comments.isso]
-enable = false
-scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
-dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
+enable = true
+scriptSrc = "https://comments.relationship-anarchy.org/js/embed.min.js" # "https://isso.example.com/js/embed.min.js"
+dataAttrs = "data-isso='https://comments.relationship-anarchy.org'" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [params.comments.staticman]
 enable = false
